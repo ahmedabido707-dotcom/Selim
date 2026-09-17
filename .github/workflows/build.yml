@@ -1,4 +1,3 @@
-I will provide the code again for you to copy. Here is the updated YAML file with the necessary flags added to show the error details:
 name: Build APK
 
 on:
@@ -33,4 +32,3 @@ jobs:
         with:
           name: MetalCostPro-APK
           path: app/build/outputs/apk/debug/*.apk
-
